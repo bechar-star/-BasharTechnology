@@ -1,0 +1,8 @@
+{
+  "name": "بشار تكنولوجي - Bashar Technology",
+  "description": "منصة تقنية متطورة لإدارة المشاريع، الأبحاث، والحلول البرمجية المبتكرة.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
